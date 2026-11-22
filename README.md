@@ -5,6 +5,8 @@
 
 互動的點子來自鄭各均的科技藝術作品（靈感來自 Pat Metheny 的 42 弦吉他）。
 
+**線上版：<https://tyctc128.github.io/air-strings/>**　（展覽模式：<https://tyctc128.github.io/air-strings/?mode=exhibit>）
+
 ## 怎麼玩
 
 用 Chrome 或 Edge 開啟網頁，按「開始」並允許使用攝影機。影像只在這台裝置上運算，不會上傳。
