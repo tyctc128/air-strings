@@ -1,0 +1,6 @@
+node_modules/
+dist/
+public/mediapipe/wasm/
+# 參考影片是他人的著作，不要放上公開儲存庫
+reference_video/
+.claude/
